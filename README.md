@@ -1,4 +1,4 @@
-# 🔐 Cryptography with Python: From Fundamentals to Secure Toolkit Development
+# Cryptography with Python: From Fundamentals to Secure Toolkit Development
 
 <div align="center">
 
@@ -876,3 +876,4 @@ Contributions are welcome. If you identify a security issue, a bug, or an improv
 *"The first rule of cryptography: don't roll your own crypto. The second rule: understand enough cryptography to use libraries correctly."*
 
 </div>
+
